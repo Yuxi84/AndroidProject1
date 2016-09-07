@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NumBaseConverer</string>
+    <string name="num1_hint">Number : </string>
+    <string name="base1_hint">From base : </string>
+    <string name="base2_hint">To base : </string>
+    <string name="convertButton_text">Convert</string>
+    <string name="num2_text">Result : </string>
+    <string name="error_msg">Number(s) entered is not valid for converting</string>
+</resources>
